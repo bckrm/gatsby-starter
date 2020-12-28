@@ -1,0 +1,11 @@
+{
+  "name": "backroom-gatsby-starter",
+  "version": "0.1.0",
+  "description": "Backroom's Gatsby JS starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asasmith",
+  "license": "ISC"
+}
