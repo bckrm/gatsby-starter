@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "description": "Backroom's Gatsby JS starter",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+
   "author": "asasmith",
-  "license": "ISC"
+  "license": "OBSD",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  }
 }
