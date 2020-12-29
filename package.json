@@ -2,16 +2,14 @@
   "name": "backroom-gatsby-starter",
   "version": "0.1.0",
   "description": "Backroom's Gatsby JS starter",
-  "main": "index.js",
-
   "author": "asasmith",
   "license": "OBSD",
   "scripts": {
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
     "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "start": "gatsby develop"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.12.0",
