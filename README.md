@@ -18,7 +18,7 @@ Backroom's minimal Gatsby js starter with Styled componenents, TailwindCSS, ESli
     gatsby new project-name https://github.com/bckrm/gatsby-starter 
     ```
 
-1.  **Start developing.**
+2.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
@@ -26,8 +26,12 @@ Backroom's minimal Gatsby js starter with Styled componenents, TailwindCSS, ESli
     cd project-name/
     npm start
     ```
-
-1.  **Open the source code and start editing!**
+    Change `master` branch to `production` or `main`
+    
+    ```shell
+    git branch -m production
+    ```
+3.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`!
 
