@@ -15,7 +15,7 @@ Backroom's minimal Gatsby js starter with Styled componenents, TailwindCSS, ESli
 
     ```shell
     # create a new Gatsby site using the hello-world starter
-    gatsby new project-name https://github.com/bckrm/backroom-gatsby-starter 
+    gatsby new project-name https://github.com/bckrm/gatsby-starter 
     ```
 
 1.  **Start developing.**
